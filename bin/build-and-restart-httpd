@@ -1,0 +1,5 @@
+#! /bin/bash
+
+/opt/httpd-2.4/bin/apxs -a -i -c mod_yes_no/mod_yes_no.c
+
+/etc/init.d/httpd restart

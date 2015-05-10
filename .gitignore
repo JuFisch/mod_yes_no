@@ -1,0 +1,8 @@
+*tags
+*.vim*
+yes_no.rb
+mod_yes_no/.libs
+mod_yes_no/mod_yes_no.la
+mod_yes_no/mod_yes_no.lo
+mod_yes_no/mod_yes_no.o
+mod_yes_no/mod_yes_no.slo
